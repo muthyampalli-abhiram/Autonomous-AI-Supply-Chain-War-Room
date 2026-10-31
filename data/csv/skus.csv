@@ -1,0 +1,21 @@
+sku_id,name,category,unit_cost,unit_price
+SKU001,Microcontroller Unit MCU-32,Semiconductors,45.0,72.0
+SKU002,Power Management IC PMIC-8,Semiconductors,18.5,30.0
+SKU003,FPGA Acceleration Board,Semiconductors,185.0,295.0
+SKU004,Li-ion Battery Cell 21700,Energy Storage,12.0,20.0
+SKU005,Solid-State Battery Pack 48V,Energy Storage,310.0,480.0
+SKU006,6-Axis IMU Motion Sensor,Sensors,22.0,36.0
+SKU007,Automotive LiDAR Module,Sensors,420.0,650.0
+SKU008,AMOLED Display Panel 6.7-inch,Displays,65.0,105.0
+SKU009,E-Paper Display Module 10-inch,Displays,40.0,68.0
+SKU010,Ceramic Capacitor Array 100uF,Passive Components,3.5,6.0
+SKU011,Ferrite Core Inductor 22uH,Passive Components,2.8,5.0
+SKU012,Brushless DC Motor 48V 500W,Electromechanical,75.0,120.0
+SKU013,Industrial Rotary Encoder 14-bit,Electromechanical,55.0,90.0
+SKU014,Optical Transceiver SFP+ 10Gbps,Optoelectronics,38.0,62.0
+SKU015,CNC Milled Aluminum Enclosure,Mechanical,28.0,48.0
+SKU016,Titanium Fastener Kit M4-M8,Mechanical,14.0,24.0
+SKU017,Wi-Fi 6E / BLE 5.3 RF Module,Connectivity,16.0,27.0
+SKU018,Gigabit Ethernet PHY Transceiver,Connectivity,9.5,16.0
+SKU019,High-Conductivity Heat Pipe Assembly,Thermal Management,15.0,26.0
+SKU020,Graphite Thermal Pad Sheet,Thermal Management,6.0,11.0

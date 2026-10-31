@@ -1,0 +1,5 @@
+warehouse_id,name,city,country,capacity
+WH01,North America Logistics Hub,Chicago,United States,150000
+WH02,European Distribution Center,Rotterdam,Netherlands,120000
+WH03,Asia-Pacific Gateway,Singapore,Singapore,180000
+WH04,East Asia Regional Depot,Tokyo,Japan,100000

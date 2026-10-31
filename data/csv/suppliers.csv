@@ -1,0 +1,16 @@
+supplier_id,name,country,reliability_score,lead_time_days,status,is_key_supplier
+SUP01,Apex Precision Semiconductor,Taiwan,0.96,14,active,True
+SUP02,Kyoto Micro-Optics,Japan,0.94,18,active,False
+SUP03,Shenzhen Integrated Circuits,China,0.91,12,active,False
+SUP04,Bavaria Mechatronics AG,Germany,0.97,10,active,False
+SUP05,Nordic Silicon Works,Sweden,0.95,16,active,False
+SUP06,Seoul Advanced Displays,South Korea,0.93,15,active,False
+SUP07,Hindustan Precision Fasteners,India,0.88,21,active,False
+SUP08,Verona Hydraulic Motion,Italy,0.92,14,active,False
+SUP09,Osaka Nanotech Corp,Japan,0.95,17,active,False
+SUP10,Guangdong Polymer Materials,China,0.89,14,active,False
+SUP11,Valencian Dynamics S.L.,Spain,0.9,13,active,False
+SUP12,Silesian Industrial Forge,Poland,0.87,19,active,False
+SUP13,Penang Electronics Assembly,Malaysia,0.92,16,active,False
+SUP14,Austin Micro Technologies,United States,0.96,8,active,False
+SUP15,Zurich Sensor Systems,Switzerland,0.98,9,active,False

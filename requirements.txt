@@ -1,0 +1,14 @@
+langgraph
+langchain-core
+pandas
+numpy
+networkx
+plotly
+streamlit
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+mcp
+a2a-sdk
+pytest

@@ -1,0 +1,4 @@
+carrier_id,name,mode,cost_per_kg,speed_days
+CAR01,Skyline Global Air Cargo,air,8.5,2
+CAR02,Pacific Maritime Lines,sea,1.15,22
+CAR03,Continental Freight Express,road,3.25,5

@@ -1,0 +1,9 @@
+customer_id,name,tier,region
+CUST01,Quantum Robotics Corp,gold,North America
+CUST02,AeroSpace Avionics Ltd,gold,Europe
+CUST03,Hyperion Electric Vehicles,gold,North America
+CUST04,OmniVision Medical Systems,silver,Europe
+CUST05,Pacific Automation Group,silver,Asia-Pacific
+CUST06,Solaria Smart Energy,silver,North America
+CUST07,Beacon Industrial IoT,bronze,Europe
+CUST08,Vanguard Precision Instruments,bronze,Asia-Pacific
